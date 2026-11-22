@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Dong 👋
 
-<!--
-**yuruang/yuruang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical tools for developers and startups working with AI applications, automation, and open-source infrastructure.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Agent reliability and production readiness
+- AI application observability and testing
+- Developer tools and workflow automation
+- Open-source projects for independent developers and startups
+
+### 🛠️ What I'm Building
+
+I'm exploring and building open-source tools that help developers move AI applications from prototypes to reliable production systems.
+
+### 🌱 Open Source
+
+I believe useful software should be accessible, transparent, and built with the community.
+
+I'm interested in contributing to projects, collaborating with developers, and learning from real-world engineering problems.
+
+### 🤝 Let's Connect
+
+- GitHub: [Your GitHub Profile]
+- X: [Your X Profile]
+- LinkedIn: [Your LinkedIn Profile]
+
+**Building in public. Learning by shipping. Improving through collaboration.**
