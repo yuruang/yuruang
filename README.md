@@ -21,8 +21,7 @@ I'm interested in contributing to projects, collaborating with developers, and l
 
 ### 🤝 Let's Connect
 
-- GitHub: [Your GitHub Profile]
-- X: [Your X Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [[Your GitHub Profile]](https://github.com/yuruang)
+- X: (https://x.com/tcozipla)
 
 **Building in public. Learning by shipping. Improving through collaboration.**
