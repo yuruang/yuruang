@@ -1,4 +1,4 @@
-# Hi, I'm Dong 👋
+# Hi, I'm Yuruang 👋
 
 I'm building practical tools for developers and startups working with AI applications, automation, and open-source infrastructure.
 
